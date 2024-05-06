@@ -1,0 +1,67 @@
+_repo: Memoirs-of-a-London-doll_73444
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Hunt, Clara Whitehill
+    birthdate: 1871
+    deathdate: 1958
+    gutenberg_agent_id: '57072'
+    url: http://www.gutenberg.org/2009/agents/57072
+    wikipedia: https://en.wikipedia.org/wiki/Clara_Whitehill_Hunt
+  illustrator:
+    agent_name: Brock, Emma L. (Emma Lillian)
+    aliases:
+    - Brock, Emma Lillian
+    - Brock, E. L.
+    birthdate: 1886
+    deathdate: 1974
+    gutenberg_agent_id: '38918'
+    url: http://www.gutenberg.org/2009/agents/38918
+    wikipedia: https://en.wikipedia.org/wiki/Emma_L._Brock
+creator:
+  author:
+    agent_name: Horne, R. H. (Richard H.)
+    aliases:
+    - Horne, Richard Hengist
+    - Horne, Richard Henry
+    - Mrs. Fairstar
+    - Salem ben Uzäir of Bassorà
+    - Salem ben Uzair of Bassora
+    - Watts, Ephraim
+    - O'Trigger, Lucius, Sir
+    - O'Trigger, Sir Lucius
+    - Fairstar, Mrs.
+    birthdate: 1802
+    deathdate: 1884
+    gutenberg_agent_id: '57071'
+    url: http://www.gutenberg.org/2009/agents/57071
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Henry_Horne
+description: ''
+gutenberg_issued: '2024-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73444'
+language: en
+pgterms:marc904: https://archive.org/details/memoirsoflondond00horn/page/n7/mode/2up
+pgterms:marc905: 20220120005311horne
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bThe Macmillan Company, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Dolls -- Juvenile fiction'
+- !lcsh 'Clothing and dress -- Juvenile fiction'
+- !lcsh 'Dollmaking -- Juvenile fiction'
+- !lcsh 'Costume -- Great Britain -- Juvenile fiction'
+- !lcsh 'London (England) -- Social life and customs -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Memoirs of a London doll
+url: http://www.gutenberg.org/ebooks/73444
