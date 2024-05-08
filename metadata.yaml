@@ -18,6 +18,9 @@ contributor:
     gutenberg_agent_id: '38918'
     url: http://www.gutenberg.org/2009/agents/38918
     wikipedia: https://en.wikipedia.org/wiki/Emma_L._Brock
+covers:
+- cover_type: archival
+  image_path: 73444-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Horne, R. H. (Richard H.)
@@ -37,6 +40,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57071
     wikipedia: https://en.wikipedia.org/wiki/Richard_Henry_Horne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73444#Memoirs-of-a-London-doll
 gutenberg_issued: '2024-04-22'
 gutenberg_type: Text
 identifiers:
